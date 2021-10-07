@@ -11,7 +11,7 @@ namespace TestNinja.UnitTests
         {
             var formatter = new HtmlFormatter();
 
-            var result = formatter.Equals("abc");
+            var result = formatter.FormatAsBold("abc");
 
             // Assertion Types
             // Specific 
