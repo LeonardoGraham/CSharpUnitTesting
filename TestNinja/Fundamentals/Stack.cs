@@ -13,7 +13,7 @@ namespace TestNinja.Fundamentals
         {
             if (obj == null)
                 throw new ArgumentNullException();
-            
+
             _list.Add(obj);
         }
 
