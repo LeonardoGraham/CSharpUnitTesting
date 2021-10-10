@@ -68,6 +68,7 @@
   <ItemGroup>
     <Compile Include="Fundamentals\CustomerControllerTests.cs" />
     <Compile Include="Fundamentals\DemeritPointsCalculatorTests.cs" />
+    <Compile Include="Fundamentals\EmployeeControllerTests.cs" />
     <Compile Include="Fundamentals\ErrorLoggerTests.cs" />
     <Compile Include="Fundamentals\FizzBuzzTests.cs" />
     <Compile Include="Fundamentals\HtmlFormatterTests.cs" />
